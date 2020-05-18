@@ -2,6 +2,12 @@
 
 DevOps with Azure Training materials and source files for the demos
 
+## Trainer
+
+Dara Oladapo
+
+Microsoft Certified Trainer, Azure Administrator and DevOps Expert
+
 ## Agenda
 
 ### Day 1: Setting the Tone and Rythm
