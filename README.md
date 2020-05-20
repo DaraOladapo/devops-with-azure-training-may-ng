@@ -27,8 +27,8 @@ Microsoft Certified Trainer, Azure Administrator and DevOps Expert
 - Configure Build from Azure Repos
 - Configure Build from GitHub (or other source controls)
 - YAML Build and Release Definition
-
 - Deployments, Stages and Environments
+- Classwork : 
 
 ### Day 4: Feedback and Telemetry
 
