@@ -28,7 +28,7 @@ Microsoft Certified Trainer, Azure Administrator and DevOps Expert
 - Configure Build from GitHub (or other source controls)
 - YAML Build and Release Definition
 - Deployments, Stages and Environments
-- Classwork : 
+- Classwork : Link [here](03-AzurePipelines/info.md)
 
 ### Day 4: Feedback and Telemetry
 
