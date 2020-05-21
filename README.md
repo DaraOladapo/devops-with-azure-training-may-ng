@@ -43,3 +43,11 @@ Microsoft Certified Trainer, Azure Administrator and DevOps Expert
 - Azure Test Plans
 - Azure Artifacts
 - Quiz
+
+Training Slides (Available till May 28, 2020): <https://www.dropbox.com/t/WFQbUrN39CZkuVuv>
+
+### Azure DevOps Exam
+
+- Exam Path: <https://docs.microsoft.com/en-us/learn/certifications/devops-engineer>
+- Exam Info: <https://docs.microsoft.com/en-us/learn/certifications/exams/az-400>
+- Learn: <https://docs.microsoft.com/en-us/learn/browse/?term=devops>
